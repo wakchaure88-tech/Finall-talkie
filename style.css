@@ -78,20 +78,20 @@ body
     position: absolute;
 }
 
-.connect
+.speak
 {
     top:479px;
-    left: 567px;
+    left: 447px;
     position: absolute;
 }
 
-.connect button
+.speak button
 {
     border-radius: 10px;
     cursor: pointer;
     background-color: #00008b;
-    height: 37px; 
-    width: 200px;
+    height: 33px; 
+    width: 120px;
     font-family: verdana;
     color: white;
     font-size: 16px;
@@ -101,9 +101,68 @@ body
 
 }
 
-.connect button:hover
+.speak button:hover
 {
     background-color: #000060;
+}
+
+
+.pause
+{
+    top:479px;
+    left: 610px;
+    position: absolute;
+}
+
+.pause button
+{
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #d43636;
+    height: 33px; 
+    width: 120px;
+    font-family: verdana;
+    color: white;
+    font-size: 16px;
+    border: #00008b;
+    left: 100px;
+    cursor: pointer;
+    
+
+}
+
+.pause button:hover
+{
+    background-color: #ff0000;
+}
+
+.resume
+{
+    top:479px;
+    left: 773px;
+    position: absolute;
+}
+
+.resume button
+{
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #ffd900;
+    height: 33px; 
+    width: 120px;
+    font-family: verdana;
+    color: white;
+    font-size: 16px;
+    border: #00008b;
+    left: 100px;
+    cursor: pointer;
+    color: black;
+
+}
+
+.resume button:hover
+{
+    background-color: #f7b910;
 }
 
 .bottom_nav
