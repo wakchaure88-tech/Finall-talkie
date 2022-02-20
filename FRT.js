@@ -1,4 +1,5 @@
 
+    //JS code
     var txtInput = document.querySelector('#input');
     var voiceList = document.querySelector('#voiceList');
     var speak= document.querySelector('#speak');
