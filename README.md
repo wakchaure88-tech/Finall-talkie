@@ -1,3 +1,5 @@
+![FRT_SS](https://user-images.githubusercontent.com/78649337/154856244-5a135810-b5a5-4c5d-b628-4c71a3cf081d.png)
+![FRT_SS](https://user-images.githubusercontent.com/78649337/154856266-9adf5ac1-e0a5-4a3b-9878-879462083994.png)
 # Future Ready Talent Project
 # Project title:- Talkie: text-to-speech-converter
 # Industry:- Ed-Tech
