@@ -23,7 +23,7 @@ audio and resume button to resume the audio from where the user has stopped. It 
 
 • Enter text or copy paste the text in textbox.
 
-• Click on Speak button
+• Click on Speak button.
 
 • You can use pause button to pause the audio and resume button to resume the audio.
 
